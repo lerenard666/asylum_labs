@@ -1,0 +1,21 @@
+# .github/FUNDING.yml
+github: [lerenard666]           # Ton handle GitHub Sponsors si activé
+patreon: ezkali                 # ou laisse vide si pas de compte
+open_collective: ezkali
+ko_fi: ezkali
+buy_me_a_coffee: ezkali
+custom:
+  - https://ezkali.net/support
+  - https://ezkali.net/invest
+  - https://ezkali.net/partners
+  - https://ezkali.net/early-access
+# .github/ISSUE_TEMPLATE/config.yml
+contact_links:
+  - name: 💚 Sponsor & Early Access
+    url: https://github.com/sponsors/lerenard666
+    about: Soutiens le projet, débloque l’accès prioritaire et les votes de features.
+  - name: 🚀 Invest / Partners
+    url: https://ezkali.net/invest
+    about: Rejoins l’aventure — partenariat, investissement, programmes dédiés.
+[![Sponsor Ezkali](https://img.shields.io/badge/Sponsor-Ezkali-now-111?logo=githubsponsors&labelColor=0a0a0a)](https://github.com/sponsors/lerenard666)
+[![Early Access](https://img.shields.io/badge/Early%20Access-open-0a0a0a?logo=vercel&labelColor=111)](https://ezkali.net/early-access)
