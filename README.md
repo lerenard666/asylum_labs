@@ -1,12 +1,12 @@
-<!-- Hero Sponsor -->
+
 <p align="center">
+  <!-- Utilise GIF/APNG ou GitHub Pages pour l'anim -->
   <a href="https://github.com/sponsors/lerenard666">
-    <img src="https://raw.githubusercontent.com/lerenard666/REPO_NAME/main/assets/animated-sponsor.svg" alt="Sponsor Ezkali — Early Access" />
+    <img src="assets/animated-sponsor.gif" alt="Sponsor Ezkali — Early Access" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Badges -->
   <a href="https://github.com/sponsors/lerenard666">
     <img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-Ezkali-111?logo=githubsponsors&labelColor=0a0a0a">
   </a>
@@ -20,15 +20,9 @@
 
 ---
 
-### 🌶️ Programme de soutien
+### Programme de soutien (FR/EN/ES)
+- FR — Early builds, roadmap privée, votes de features, backstage briefs mensuels.
+- EN — Early builds, private roadmap, feature voting, monthly backstage briefs.
+- ES — Acceso temprano, hoja de ruta privada, votos y briefs mensuales.
 
-**FR** — Sponsorise ce dépôt et obtiens :
-- Accès prioritaire aux builds (desktop, device-first, Web3-native)
-- Feuille de route privée + votes de features
-- Crédits publics et “backstage brief” mensuel
-
-**EN** — Sponsor this repo to get early builds, private roadmap, voting power, and monthly backstage briefs.
-
-**ES** — Patrocina este repositorio: acceso temprano, hoja de ruta privada, votos y “backstage brief” mensual.
-
-> Bouton **Sponsor** en haut (ou ici) → https://github.com/sponsors/lerenard666
+➡️ **[Ezkali Labs](https://github.com/sponsors/lerenard666)** — soutenir le développement maintenant !
